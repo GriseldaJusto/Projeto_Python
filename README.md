@@ -7,7 +7,7 @@ Este repositório contém os exercícios práticos realizados durante uma oficin
 ## ✅ Conteúdos trabalhados
 
 - Variáveis e tipos de dados  
-- Listas, laços e condicionais  
+- Listase condicionais  
 - Funções  
 - Orientação a Objetos (POO)  
 - Manipulação de arquivos (CSV)  
@@ -17,7 +17,7 @@ Este repositório contém os exercícios práticos realizados durante uma oficin
 
 ## 📚 Objetivo
 
-Consolidar o aprendizado dos conceitos básicos de programação com Python, criando uma base sólida para ingressar em cursos e projetos de **Inteligência Artificial** e **Data Science**.
+Consolidar o aprendizado dos conceitos básicos de programação com Python, criando uma base sólida para ingressar em cursos e projetos de **Inteligência Artificial**.
 
 ---
 
